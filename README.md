@@ -1,7 +1,7 @@
 runtime-snaps
 =============
 
-Combining the [Solus](https://solus-project.com) runtime and [Linux Steam Integration](https://github.com/solus-project/linux-steam-integration) project with [Snaps](https://snapcraft.io/) for universal gaming
+Combining the [Solus](https://getsol.us) runtime and [Linux Steam Integration](https://github.com/solus-project/linux-steam-integration) project with [Snaps](https://snapcraft.io/) for universal gaming
 
 This is currently a **Work In Progress**.
 
@@ -31,9 +31,9 @@ and provide peace of mind that their games would work as **intended**. Additiona
 as the keepers of LSI, we can rapidly deploy changes to LSI and the runtime to better
 support the games and alleviate regressions before they hit users.
 
-runtime-snaps is a [Solus project](https://solus-project.com/)
+runtime-snaps is a [Solus project](https://getsol.us/)
 
-![logo](https://build.solus-project.com/logo.png)
+![logo](https://build.getsol.us/logo.png)
 
 ### Planned Usage
 
